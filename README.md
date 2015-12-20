@@ -2,7 +2,7 @@
 Getting and Cleaning Data Course Project
 
 The run_analysis.R file provides all the commands required in R to take the raw data for the course project and clean it as directed.
-The data has already been downloaded onto my PC.
+The data has already been downloaded onto my PC and put into a project_data folder.
 In the script I load the appropriate R packages for working with the data.
 I read the data into a number of dataframes.
 
